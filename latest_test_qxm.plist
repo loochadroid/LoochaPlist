@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.loocha.com.cn/ios/zsdx.ipa</string>
+					<string>http://192.168.0.137/ios/res/latest_test.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.jsdx.bjy</string>
+				<string>GrabGirl</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>0.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>掌上大学</string>
+				<string>抢学妹</string>
 				<key>title</key>
-				<string>掌上大学</string>
+				<string>抢学妹</string>
 			</dict>
 		</dict>
 	</array>
